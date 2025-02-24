@@ -22,23 +22,23 @@
 },
 {
     "id": 4,
+    "image": "./images/todo.png",
+    "title": "Todo-App",
+    "description": "I created Todo-App Website using React.js with CRUD operation, Focused on user-friendly design and responsive layouts.",
+    "link": "https://todo-app-by-vmr.netlify.app/"
+},
+{
+    "id": 5,
     "image": "./images/Screenshot (12).png",
     "title": "Briyani Restaurant",
     "description": "I created Briyani Restaurant Website in Html, Css and JavaScript, Focused on user-friendly design and responsive layouts.",
     "link": "https://vmr-briyani.netlify.app"
 },
 {
-    "id": 5,
+    "id": 6,
     "image": "./images/Screenshot (13).png",
     "title": "Amazon Prime Clone",
     "description": "I created Prime Video Clone in Html and Css with Responsive.",
     "link": "https://primevideoclone2023.netlify.app"
-},
-{
-    "id": 6,
-    "image": "./images/Screenshot (12) (2).png",
-    "title": "Hulk Fitness",
-    "description": "I created Gym Website in Html and Css with Responsive.",
-    "link": "https://hustlefitness.netlify.app"
 }
 ]
